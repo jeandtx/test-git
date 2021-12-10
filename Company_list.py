@@ -16,7 +16,7 @@ Company = {
     'Programmer 3': 'Clement',
     'CEO': 'Jean',
     'Project Manager': 'Marc-Antoine',
-    'Programmer 5': 'Tshiya',
+    'Programmer 5': 'Tshiya'
 }
 
 Company_list(Company)
