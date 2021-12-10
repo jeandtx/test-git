@@ -1,5 +1,6 @@
 # Delivery Project
 This project learned us how to use the Scrum/Agile method. The [repository](https://github.com/jeandtx/test-git/tree/add-content-after-login) is available and public.
+To learn we need to practice, in this project we implemented simplistic features on a website using github. We did commit, merge and pull request.
 
 
 ## Questions
